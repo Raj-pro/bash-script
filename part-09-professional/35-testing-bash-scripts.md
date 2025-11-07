@@ -1,4 +1,4 @@
-# Chapter 33: Testing Bash Scripts
+# Chapter 35: Testing Bash Scripts
 
 ## Introduction
 
@@ -432,4 +432,4 @@ EOF
 
 ---
 
-**Next Chapter:** [34 - Distributing and Versioning Scripts](34-distributing-versioning.md)
+**Next Chapter:** [36 - Distributing and Versioning Scripts](36-distributing-versioning.md)

@@ -1,4 +1,4 @@
-# Chapter 29: Cloud Integration (AWS, Azure, GCP)
+# Chapter 31: Cloud Integration (AWS, Azure, GCP)
 
 ## Introduction
 
@@ -220,4 +220,4 @@ gcloud billing accounts get-billing-info \
 
 ---
 
-**Next Chapter:** [30 - CI/CD Environments](30-cicd-environments.md)
+**Next Chapter:** [32 - CI/CD Environments](32-cicd-environments.md)

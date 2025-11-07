@@ -1,4 +1,4 @@
-# Chapter 17: Error Handling and Exit Codes
+# Chapter 19: Error Handling and Exit Codes
 
 ## Introduction
 
@@ -446,4 +446,4 @@ exit $EXIT_SUCCESS
 
 ---
 
-**Next Chapter:** [18 - Debugging Bash Scripts](18-debugging-bash-scripts.md)
+**Next Chapter:** [20 - Debugging Bash Scripts](20-debugging-bash-scripts.md)

@@ -1,4 +1,4 @@
-# Chapter 26: Bash for DevOps Pipelines
+# Chapter 28: Bash for DevOps Pipelines
 
 ## Introduction
 
@@ -646,4 +646,4 @@ done
 
 ---
 
-**Next Chapter:** [27 - Bash and Docker](27-bash-docker.md)
+**Next Chapter:** [29 - Bash and Docker](29-bash-docker.md)

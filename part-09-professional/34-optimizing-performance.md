@@ -1,4 +1,4 @@
-# Chapter 32: Optimizing Bash Performance
+# Chapter 34: Optimizing Bash Performance
 
 ## Introduction
 
@@ -424,4 +424,4 @@ benchmark "Parameter expansion" 1000 'var="/etc/passwd"; ${var//[^:]}'
 
 ---
 
-**Next Chapter:** [33 - Testing Bash Scripts](33-testing-bash-scripts.md)
+**Next Chapter:** [35 - Testing Bash Scripts](35-testing-bash-scripts.md)

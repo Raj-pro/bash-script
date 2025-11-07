@@ -1,4 +1,4 @@
-# Chapter 23: Network Automation
+# Chapter 25: Network Automation
 
 ## Introduction
 
@@ -607,4 +607,4 @@ cat /proc/net/dev | column -t
 
 ---
 
-**Next Chapter:** [24 - Backup and Recovery Automation](24-backup-recovery-automation.md)
+**Next Chapter:** [26 - Backup and Recovery Automation](26-backup-recovery-automation.md)

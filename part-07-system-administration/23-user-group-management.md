@@ -1,4 +1,4 @@
-# Chapter 21: User and Group Management
+# Chapter 23: User and Group Management
 
 ## Introduction
 
@@ -690,4 +690,4 @@ offboard_user "jdoe"
 
 ---
 
-**Next Chapter:** [22 - System Monitoring and Health Checks](22-system-monitoring-health-checks.md)
+**Next Chapter:** [24 - System Monitoring and Health Checks](24-system-monitoring-health-checks.md)

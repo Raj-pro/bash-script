@@ -1,4 +1,4 @@
-# Chapter 18: Debugging Bash Scripts
+# Chapter 20: Debugging Bash Scripts
 
 ## Introduction
 
@@ -647,4 +647,4 @@ main "$@"
 
 ---
 
-**Next Chapter:** [19 - Regular Expressions in Bash](19-regular-expressions.md)
+**Next Chapter:** [21 - Regular Expressions in Bash](21-regular-expressions.md)

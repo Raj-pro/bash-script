@@ -1,4 +1,4 @@
-# Chapter 22: System Monitoring and Health Checks
+# Chapter 24: System Monitoring and Health Checks
 
 ## Introduction
 
@@ -525,4 +525,4 @@ echo "Monitoring scheduled to run every 5 minutes"
 
 ---
 
-**Next Chapter:** [23 - Network Automation](23-network-automation.md)
+**Next Chapter:** [25 - Network Automation](25-network-automation.md)

@@ -1,4 +1,4 @@
-# Chapter 27: Bash and Docker
+# Chapter 29: Bash and Docker
 
 ## Introduction
 
@@ -360,4 +360,4 @@ echo "Multi-architecture build completed"
 
 ---
 
-**Next Chapter:** [28 - Bash and Kubernetes](28-bash-kubernetes.md)
+**Next Chapter:** [30 - Bash and Kubernetes](30-bash-kubernetes.md)

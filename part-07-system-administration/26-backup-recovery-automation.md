@@ -1,4 +1,4 @@
-# Chapter 24: Backup and Recovery Automation
+# Chapter 26: Backup and Recovery Automation
 
 ## Introduction
 
@@ -528,4 +528,4 @@ check_backup_status
 
 ---
 
-**Next Chapter:** [25 - Security and Permissions](25-security-permissions.md)
+**Next Chapter:** [27 - Security and Permissions](27-security-permissions.md)

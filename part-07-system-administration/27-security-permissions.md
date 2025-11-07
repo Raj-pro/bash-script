@@ -1,4 +1,4 @@
-# Chapter 25: Security and Permissions
+# Chapter 27: Security and Permissions
 
 ## Introduction
 

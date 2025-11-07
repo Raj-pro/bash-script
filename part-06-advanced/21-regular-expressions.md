@@ -1,4 +1,4 @@
-# Chapter 19: Regular Expressions in Bash
+# Chapter 21: Regular Expressions in Bash
 
 ## Introduction
 
@@ -578,4 +578,4 @@ parse_config config.ini
 
 ---
 
-**Next Chapter:** [20 - Working with Processes](20-working-with-processes.md)
+**Next Chapter:** [22 - Working with Processes](22-working-with-processes.md)

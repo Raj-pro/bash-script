@@ -1,4 +1,4 @@
-# Chapter 30: CI/CD Environments
+# Chapter 32: CI/CD Environments
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Chapter 28: Bash and Kubernetes
+# Chapter 30: Bash and Kubernetes
 
 ## Introduction
 
@@ -243,4 +243,4 @@ echo "Backup completed: $BACKUP_DIR"
 
 ---
 
-**Next Chapter:** [29 - Cloud Integration (AWS, Azure, GCP)](29-cloud-integration.md)
+**Next Chapter:** [31 - Cloud Integration (AWS, Azure, GCP)](31-cloud-integration.md)

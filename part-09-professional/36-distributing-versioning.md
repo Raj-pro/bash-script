@@ -1,4 +1,4 @@
-# Chapter 34: Distributing and Versioning Scripts
+# Chapter 36: Distributing and Versioning Scripts
 
 ## Introduction
 

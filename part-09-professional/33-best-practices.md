@@ -1,4 +1,4 @@
-# Chapter 31: Best Practices for Writing Scripts
+# Chapter 33: Best Practices for Writing Scripts
 
 ## Introduction
 
@@ -510,4 +510,4 @@ echo "Tests failed: $TESTS_FAILED"
 
 ---
 
-**Next Chapter:** [32 - Optimizing Bash Performance](32-optimizing-performance.md)
+**Next Chapter:** [34 - Optimizing Bash Performance](34-optimizing-performance.md)
